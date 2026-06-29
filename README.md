@@ -2,26 +2,17 @@
 
 A full-stack MERN application to log and manage your workouts.
 
----
-
 ## 📁 Project Structure
 
-```
 workout-buddy/
 ├── backend/       # Express + MongoDB API
 └── frontend/      # React app
-```
 
----
-
-## 🚀 How to Run
+ How to Run
 
 ### 1. Backend Setup
-
-```bash
 cd backend
 npm install
-```
 
 Create a `.env` file (copy from `.env.example`):
 
